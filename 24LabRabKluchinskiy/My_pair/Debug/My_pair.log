@@ -1,0 +1,22 @@
+﻿  My_pair.cpp
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(224,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(191,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(187): message : while compiling class template member function 'void my_vec<short>::push_back(T)'
+          with
+          [
+              T=short
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_pair\My_pair.cpp(54): message : see reference to function template instantiation 'void my_vec<short>::push_back(T)' being compiled
+          with
+          [
+              T=short
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_pair\My_pair.cpp(54): message : see reference to class template instantiation 'my_vec<short>' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(200): message : while compiling class template member function 'void my_vec<my_vec<short>>::clear(void)'
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_pair\My_pair.cpp(61): message : see reference to function template instantiation 'void my_vec<my_vec<short>>::clear(void)' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_pair\My_pair.cpp(53): message : see reference to class template instantiation 'my_vec<my_vec<short>>' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(61): message : while compiling class template member function 'void my_vec<int>::assign(size_t,size_t)'
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_pair\My_pair.cpp(40): message : see reference to function template instantiation 'void my_vec<int>::assign(size_t,size_t)' being compiled
+  My_pair.vcxproj -> C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Debug\My_pair.exe

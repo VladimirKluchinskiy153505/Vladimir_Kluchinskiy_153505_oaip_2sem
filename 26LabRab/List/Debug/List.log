@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  List.cpp
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(18,9): error C2039: 'cout': is not a member of 'std'
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(46): message : see reference to class template instantiation 'my_list<T>' being compiled

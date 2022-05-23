@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\Debug\Sample-Test42.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Case1.Check" Duration="1" />
+    <TestDuration Test="Case2.Check" Duration="1" />
+    <TestDuration Test="Case3.Check" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

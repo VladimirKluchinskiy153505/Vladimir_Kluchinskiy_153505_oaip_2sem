@@ -1,0 +1,24 @@
+Name : Fork
+Supply Date : 20.08.1999
+Price : 10486
+
+Name : Katana
+Supply Date : 09.03.2017
+Price : 3.89e+06
+
+Name : Olga
+Supply Date : 11.20.2025
+Price : 1.891e+06
+
+Name : Pen
+Supply Date : 10.11.2011
+Price : 6.24e+06
+
+Name : Sasha
+Supply Date : 11.10.1010
+Price : -6.27744e+66
+
+Name : Yulia
+Supply Date : 14.12.2020
+Price : 7.203e+07
+

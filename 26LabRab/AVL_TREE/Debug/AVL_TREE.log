@@ -1,0 +1,6 @@
+﻿  AVL_TREE.cpp
+C:\Users\avdot\Desktop\LabWorks\26LabRab\AVL_TREE\AVL_TREE.cpp(231): warning C4715: 'AVL_Tree<int,int>::find_max': not all control paths return a value
+C:\Users\avdot\Desktop\LabWorks\26LabRab\AVL_TREE\AVL_TREE.cpp(240): warning C4715: 'AVL_Tree<int,int>::find_min': not all control paths return a value
+C:\Users\avdot\Desktop\LabWorks\26LabRab\AVL_TREE\AVL_TREE.cpp(43): warning C4715: 'AVL_Tree<int,int>::SearchMin': not all control paths return a value
+C:\Users\avdot\Desktop\LabWorks\26LabRab\AVL_TREE\AVL_TREE.cpp(40): warning C4172: returning address of local variable or temporary: kernel
+  AVL_TREE.vcxproj -> C:\Users\avdot\Desktop\LabWorks\26LabRab\Debug\AVL_TREE.exe

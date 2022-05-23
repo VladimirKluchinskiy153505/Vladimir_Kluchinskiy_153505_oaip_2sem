@@ -1,0 +1,21 @@
+﻿  Deegrees.cpp
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(146,25): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(153,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(193,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(201,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(197): message : while compiling class template member function 'void my_vec<int>::push_back(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Deegrees\Deegrees.cpp(16): message : see reference to function template instantiation 'void my_vec<int>::push_back(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Deegrees\Deegrees.cpp(16): message : see reference to class template instantiation 'my_vec<int>' being compiled
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\New_Stack\New_Stack.cpp(88): warning C4715: 'my_stack<my_pair<int,int> >::top': not all control paths return a value
+  Deegrees.vcxproj -> C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Debug\Deegrees.exe

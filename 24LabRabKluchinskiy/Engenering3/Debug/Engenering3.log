@@ -1,0 +1,27 @@
+﻿  Engenering3.cpp
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(146,25): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(153,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(193,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering3\Engenering3.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering3\Engenering3.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering3\Engenering3.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering3\Engenering3.cpp(58,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(241,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(237): message : while compiling class template member function 'void my_vec<MyString>::resize(size_t)'
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering3\Engenering3.cpp(12): message : see reference to function template instantiation 'void my_vec<MyString>::resize(size_t)' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering3\Engenering3.cpp(9): message : see reference to class template instantiation 'my_vec<MyString>' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(201,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(197): message : while compiling class template member function 'void my_vec<MyString>::push_back(T)'
+          with
+          [
+              T=MyString
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering3\Engenering3.cpp(51): message : see reference to function template instantiation 'void my_vec<MyString>::push_back(T)' being compiled
+          with
+          [
+              T=MyString
+          ]
+  Engenering3.vcxproj -> C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Debug\Engenering3.exe

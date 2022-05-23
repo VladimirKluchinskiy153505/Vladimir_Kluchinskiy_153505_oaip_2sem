@@ -1,0 +1,5 @@
+﻿  test.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\avdot\Desktop\LabWorks\8LabRab_Kluchinskiy\8LabRab\test\test.cpp(55,16): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\avdot\Desktop\LabWorks\8LabRab_Kluchinskiy\8LabRab\test\test.cpp(58,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  test.vcxproj -> C:\Users\avdot\Desktop\LabWorks\8LabRab_Kluchinskiy\8LabRab\Debug\test.exe

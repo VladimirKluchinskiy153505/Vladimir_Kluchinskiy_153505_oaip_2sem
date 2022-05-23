@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (32dll.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  MathLibrary.cpp
+C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\5LabRab32withDLL\MathLibrary\MathLibrary.cpp(15,21): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\5LabRab32withDLL\Debug\MathLibrary.lib и объект C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\5LabRab32withDLL\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\5LabRab32withDLL\Debug\MathLibrary.dll

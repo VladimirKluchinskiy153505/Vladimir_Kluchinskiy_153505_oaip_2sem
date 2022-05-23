@@ -1,0 +1,3 @@
+﻿  3LabRab.cpp
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\New_Stack\New_Stack.cpp(88): warning C4715: 'my_stack<Translate::Operator>::top': not all control paths return a value
+  3LabRab.vcxproj -> C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Debug\3LabRab.exe

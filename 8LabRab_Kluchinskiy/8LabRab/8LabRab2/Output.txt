@@ -1,0 +1,20 @@
+Name : Sasha
+Service number : 94949
+Salary : 1351.68
+
+Name : ilia
+Service number : 78784
+Salary : 1724.8
+
+Name : Kata
+Service number : 3874
+Salary : 1140.48
+
+Name : Ulia
+Service number : 4994
+Salary : 10164
+
+Name : Anton
+Service number : 494498
+Salary : 4998.4
+

@@ -1,0 +1,8 @@
+﻿  Functions.cpp
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Functions\Functions.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Functions\Functions.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Functions\Functions.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Functions\Functions.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Functions\Functions.cpp(62,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Functions\Functions.cpp(141): warning C4715: 'Strncmp': not all control paths return a value
+  Functions.vcxproj -> C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Debug\Functions.exe

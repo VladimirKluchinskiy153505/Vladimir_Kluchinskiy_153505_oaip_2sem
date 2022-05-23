@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(142,25): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(149,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(201,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\New_String\New_String.cpp(298,20): warning C4018: '<': signed/unsigned mismatch
+  test.vcxproj -> C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Debug\test.exe

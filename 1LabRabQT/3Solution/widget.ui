@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1262</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="9">
+    <widget class="QPushButton" name="add_newone">
+     <property name="text">
+      <string>Add_NewOne</string>
+     </property>
+    </widget>
+   </item>
+   <item row="12" column="9">
+    <widget class="QPushButton" name="duration">
+     <property name="text">
+      <string>Duration</string>
+     </property>
+    </widget>
+   </item>
+   <item row="11" column="9">
+    <widget class="QPushButton" name="days_till_birth">
+     <property name="text">
+      <string>Days_Till_Your_Birthday</string>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="9">
+    <widget class="QPushButton" name="diff_with_prev">
+     <property name="text">
+      <string>Diff_with_Prev</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" rowspan="13">
+    <widget class="QTableWidget" name="table">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="9">
+    <widget class="QPushButton" name="show_prev_day">
+     <property name="text">
+      <string>Show_Previous_Day</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="9">
+    <widget class="QPushButton" name="edit_one">
+     <property name="text">
+      <string>Edit_One</string>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="9">
+    <widget class="QPushButton" name="week_number">
+     <property name="text">
+      <string>Week_Number</string>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="9">
+    <widget class="QPushButton" name="show_nextday">
+     <property name="text">
+      <string>Show_Next_Day</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="9">
+    <widget class="QPushButton" name="enter_birthday">
+     <property name="text">
+      <string>Enter_Birthday</string>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="9">
+    <widget class="QPushButton" name="is_leap">
+     <property name="text">
+      <string>Is_Leap</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="9">
+    <widget class="QPushButton" name="delete_one">
+     <property name="text">
+      <string>Delete_One</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="9">
+    <widget class="QPushButton" name="week_day">
+     <property name="text">
+      <string>Week_day</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,12 @@
+release/adding.o
+release/deleting.o
+release/editing.o
+release/editingdialog.o
+release/main.o
+release/place.o
+release/widget.o
+release/moc_adding.o
+release/moc_deleting.o
+release/moc_editing.o
+release/moc_editingdialog.o
+release/moc_widget.o

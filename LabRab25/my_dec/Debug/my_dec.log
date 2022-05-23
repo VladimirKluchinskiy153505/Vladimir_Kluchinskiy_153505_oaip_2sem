@@ -1,0 +1,116 @@
+﻿  pch.cpp
+  my_dec.cpp
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(10,16): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(21): message : see reference to class template instantiation 'Node<T>' being compiled
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(10,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(10,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(11,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(11,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(11,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(15,9): error C2065: 'cout': undeclared identifier
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(15,9): error C3861: 'cout': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(18,9): error C2065: 'cout': undeclared identifier
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(18,9): error C3861: 'cout': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(28,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(56): message : see reference to class template instantiation 'my_deque<T>' being compiled
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(28,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(28,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(29,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(29,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(29,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(53,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(53,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(53,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(54,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(54,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(54,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73,9): error C2988: unrecognizable template declaration/definition
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73,9): error C2059: syntax error: '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73,15): error C2065: 'T': undeclared identifier
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73,10): error C2923: 'Node': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73): message : see declaration of 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73,28): error C2065: 'T': undeclared identifier
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73,19): error C2923: 'my_deque': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(73): message : see declaration of 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(74,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(74,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83,9): error C2988: unrecognizable template declaration/definition
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83,9): error C2059: syntax error: '<'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83,15): error C2065: 'T': undeclared identifier
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83,10): error C2923: 'Node': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83): message : see declaration of 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83,28): error C2065: 'T': undeclared identifier
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83,19): error C2923: 'my_deque': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(83): message : see declaration of 'T'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(84,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(84,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(95,5): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(97,9): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(97,28): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(99,9): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(99,26): error C3861: 'my_weak_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(99,47): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(100,9): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(100,22): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(103,9): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(103,22): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(105,9): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(105,22): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(114,5): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(116,9): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(116,27): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(118,9): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(118,27): error C3861: 'my_weak_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(118,48): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(119,9): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(119,22): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(123,9): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(123,22): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(124,9): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(124,22): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(137,9): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(140,9): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(140,32): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(141,9): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(141,30): error C3861: 'temp': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(152,9): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(155,9): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(155,32): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(157,9): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(157,30): error C3861: 'temp': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(174,9): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(174,27): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(176,13): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(176,30): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(178,17): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(178,34): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(182,13): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(182,30): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(184,17): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(184,34): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(187,9): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(187,36): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(188,9): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(189,9): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(189,32): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(190,9): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(190,26): error C3861: 'my_weak_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(190,47): error C3861: 'obj_prev': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(191,9): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(191,27): error C3861: 'obj_next': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(192,9): error C3861: 'obj_next': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(192,31): error C3861: 'my_weak_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(192,52): error C3861: 'obj': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(218,9): error C3861: 'shar_ptr': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(218,27): error C3861: 'obj_to_del': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(220,13): error C3861: 'obj_to_del': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(220,32): error C3861: 'head': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(222,17): error C3861: 'obj_to_del': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(222,36): error C3861: 'obj_to_del': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(226,13): error C3861: 'obj_to_del': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(226,32): error C3861: 'tail': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(228,17): error C3861: 'obj_to_del': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(228,35): error C3861: 'obj_to_del': identifier not found
+C:\Users\avdot\Desktop\LabWorks\LabRab25\my_dec\my_dec.cpp(237,1): fatal error C1003: error count exceeds 100; stopping compilation

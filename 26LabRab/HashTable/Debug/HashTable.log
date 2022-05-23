@@ -1,0 +1,100 @@
+﻿  HashTable.cpp
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(129,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(125): message : while compiling class template member function 'void HashTable<int,std::string>::eraze(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(155): message : see reference to function template instantiation 'void HashTable<int,std::string>::eraze(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(149): message : see reference to class template instantiation 'HashTable<int,std::string>' being compiled
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(134,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(118,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(117): message : while compiling class template member function 'void HashTable<int,std::string>::show(void)'
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(158): message : see reference to function template instantiation 'void HashTable<int,std::string>::show(void)' being compiled
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(103,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(90): message : while compiling class template member function 'Node<T,U> *HashTable<T,U>::find_with_min_key(void)'
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(157): message : see reference to function template instantiation 'Node<T,U> *HashTable<T,U>::find_with_min_key(void)' being compiled
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(50,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(46): message : while compiling class template member function 'void HashTable<int,std::string>::insert(T,U)'
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(150): message : see reference to function template instantiation 'void HashTable<int,std::string>::insert(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(56,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(37,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(33): message : while compiling class template member function 'void HashTable<int,std::string>::push_back(Node<T,U>)'
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(67): message : see reference to function template instantiation 'void HashTable<int,std::string>::push_back(Node<T,U>)' being compiled
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(72,10): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(71): message : while compiling class template member function 'void my_list<Node<T,U>>::eraze(size_t)'
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(136): message : see reference to function template instantiation 'void my_list<Node<T,U>>::eraze(size_t)' being compiled
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(131): message : see reference to class template instantiation 'my_list<Node<T,U>>' being compiled
+          with
+          [
+              T=int,
+              U=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(125): message : while compiling class template member function 'void HashTable<int,std::string>::eraze(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(155): message : see reference to function template instantiation 'void HashTable<int,std::string>::eraze(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(140,10): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(139): message : while compiling class template member function 'T &my_list<T>::operator [](size_t)'
+          with
+          [
+              T=Node<int,std::string>
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\HashTable\HashTable.cpp(120): message : see reference to function template instantiation 'T &my_list<T>::operator [](size_t)' being compiled
+          with
+          [
+              T=Node<int,std::string>
+          ]
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\26LabRab\List\List.cpp(129): warning C4715: 'my_list<Node<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::top': not all control paths return a value
+  HashTable.vcxproj -> C:\Users\avdot\Desktop\LabWorks\26LabRab\Debug\HashTable.exe

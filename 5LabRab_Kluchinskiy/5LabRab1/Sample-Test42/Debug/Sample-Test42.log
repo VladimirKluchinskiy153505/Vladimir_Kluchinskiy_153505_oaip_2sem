@@ -1,0 +1,5 @@
+﻿  test42.cpp
+C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\Sample-Test42\test42.cpp(21,2): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\Sample-Test42\test42.cpp(24,2): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\Sample-Test42\test42.cpp(27,2): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+  Sample-Test42.vcxproj -> C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\Debug\Sample-Test42.exe

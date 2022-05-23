@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (4LabRab81.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  4LabRab8.cpp
+C:\Users\avdot\Desktop\LabWorks\4LabRab_Kluchinskiy\4LabRab1\4LabRab81\4LabRab8.cpp(18,21): warning C4018: <: несоответствие типов со знаком и без знака
+  4LabRab81.vcxproj -> C:\Users\avdot\Desktop\LabWorks\4LabRab_Kluchinskiy\4LabRab1\Debug\4LabRab8.exe

@@ -1,0 +1,21 @@
+﻿  Engineering.cpp
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engineering\Engineering.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engineering\Engineering.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engineering\Engineering.cpp(49,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engineering\Engineering.cpp(57,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(241,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(237): message : while compiling class template member function 'void my_vec<std::string>::resize(size_t)'
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engineering\Engineering.cpp(12): message : see reference to function template instantiation 'void my_vec<std::string>::resize(size_t)' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engineering\Engineering.cpp(9): message : see reference to class template instantiation 'my_vec<std::string>' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(201,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(197): message : while compiling class template member function 'void my_vec<std::string>::push_back(T)'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engineering\Engineering.cpp(52): message : see reference to function template instantiation 'void my_vec<std::string>::push_back(T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  Engineering.vcxproj -> C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Debug\Engineering.exe

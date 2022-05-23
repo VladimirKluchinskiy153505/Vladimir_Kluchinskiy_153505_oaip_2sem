@@ -1,0 +1,45 @@
+﻿  Engenering2.cpp
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(31,31): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(41,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(59,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(66,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(245): message : while compiling class template member function 'void my_vec<short>::operator =(my_vec<short> &)'
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(16): message : see reference to function template instantiation 'void my_vec<short>::operator =(my_vec<short> &)' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(16): message : see reference to class template instantiation 'my_vec<short>' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(191,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(187): message : while compiling class template member function 'void my_vec<short>::push_back(T)'
+          with
+          [
+              T=short
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(61): message : see reference to function template instantiation 'void my_vec<short>::push_back(T)' being compiled
+          with
+          [
+              T=short
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(225,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(221): message : while compiling class template member function 'void my_vec<my_vec<short>>::resize(size_t)'
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(14): message : see reference to function template instantiation 'void my_vec<my_vec<short>>::resize(size_t)' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(11): message : see reference to class template instantiation 'my_vec<my_vec<short>>' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(200): message : while compiling class template member function 'void my_vec<my_vec<short>>::clear(void)'
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(12): message : see reference to function template instantiation 'void my_vec<my_vec<short>>::clear(void)' being compiled
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\My_Vec\My_Vec.cpp(102): message : while compiling class template member function 'void my_vec<my_vec<short>>::emplace_back(T &&)'
+          with
+          [
+              T=my_vec<short>
+          ]
+C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Engenering2\Engenering2.cpp(49): message : see reference to function template instantiation 'void my_vec<my_vec<short>>::emplace_back(T &&)' being compiled
+          with
+          [
+              T=my_vec<short>
+          ]
+  Engenering2.vcxproj -> C:\Users\avdot\Desktop\LabWorks\24LabRabKluchinskiy\Debug\Engenering2.exe

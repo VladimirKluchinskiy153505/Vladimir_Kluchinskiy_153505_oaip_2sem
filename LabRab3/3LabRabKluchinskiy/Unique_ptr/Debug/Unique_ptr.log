@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Unique_ptr.cpp
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(9,6): error C2039: 'remove_reference_t': is not a member of 'std'
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(9,24): error C2988: unrecognizable template declaration/definition
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(9,24): error C2143: syntax error: missing ';' before '<'
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(9,24): error C2059: syntax error: '<'
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(9,51): error C2143: syntax error: missing ';' before '{'
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(9,51): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(17,9): error C2065: 'cout': undeclared identifier
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(62): message : see reference to class template instantiation 'my_unique_ptr<T>' being compiled
+C:\Users\avdot\Desktop\LabRab3\3LabRabKluchinskiy\Unique_ptr\Unique_ptr.cpp(17,9): error C3861: 'cout': identifier not found

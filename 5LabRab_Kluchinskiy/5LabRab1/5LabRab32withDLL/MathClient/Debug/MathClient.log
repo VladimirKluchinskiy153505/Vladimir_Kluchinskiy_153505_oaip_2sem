@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (32Client.vcxproj, MathClient.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MathLibraryClient.cpp
+  MathClient.vcxproj -> C:\Users\avdot\Desktop\LabWorks\5LabRab_Kluchinskiy\5LabRab1\5LabRab32withDLL\Debug\MathLibraryClient.exe

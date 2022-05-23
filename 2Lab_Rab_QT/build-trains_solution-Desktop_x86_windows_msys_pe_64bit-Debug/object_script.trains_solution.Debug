@@ -1,0 +1,12 @@
+debug/adding.o
+debug/deleting.o
+debug/editing.o
+debug/editingdialog.o
+debug/main.o
+debug/place.o
+debug/widget.o
+debug/moc_adding.o
+debug/moc_deleting.o
+debug/moc_editing.o
+debug/moc_editingdialog.o
+debug/moc_widget.o
