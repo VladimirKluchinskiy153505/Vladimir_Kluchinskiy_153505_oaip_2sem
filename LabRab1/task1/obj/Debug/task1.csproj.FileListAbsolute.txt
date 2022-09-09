@@ -1,0 +1,8 @@
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\bin\Debug\task1.exe.config
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\bin\Debug\task1.exe
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\bin\Debug\task1.pdb
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\obj\Debug\task1.exe
+C:\Users\avdot\Desktop\C#\2CourseLabRab1C#\LabRab1\task1\obj\Debug\task1.pdb
