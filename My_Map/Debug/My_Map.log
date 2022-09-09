@@ -1,0 +1,37 @@
+﻿  My_Map.cpp
+C:\Users\avdot\Desktop\LabWorks\27LabRab\My_Map\My_Map.cpp(8,15): error C2789: 'my_pair<const T,U>::first': an object of const-qualified type must be initialized
+          with
+          [
+              T=int,
+              U=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\27LabRab\My_Map\My_Map.cpp(6): message : see declaration of 'my_pair<const T,U>::first'
+          with
+          [
+              T=int,
+              U=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\27LabRab\My_Map\My_Map.cpp(8): message : while compiling class template member function 'my_pair<const T,U>::my_pair(void)'
+          with
+          [
+              T=int,
+              U=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\27LabRab\My_Map\My_Map.cpp(29): message : see reference to function template instantiation 'my_pair<const T,U>::my_pair(void)' being compiled
+          with
+          [
+              T=int,
+              U=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\27LabRab\My_Map\My_Map.cpp(36): message : see reference to class template instantiation 'my_pair<const T,U>' being compiled
+          with
+          [
+              T=int,
+              U=int
+          ]
+C:\Users\avdot\Desktop\LabWorks\27LabRab\My_Map\My_Map.cpp(409): message : see reference to class template instantiation 'AVL_Tree<int,int>::Node<T,U>' being compiled
+          with
+          [
+              T=int,
+              U=int
+          ]
